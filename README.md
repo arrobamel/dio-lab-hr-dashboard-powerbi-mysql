@@ -19,8 +19,6 @@
 ![Diagrama](diagrama_azure_company.png)
 > Diagrama relacional criado no MySQL Workbench
 
-<img width="591" height="605" alt="diagrama_azure_company" src="https://github.com/user-attachments/assets/ff944f05-6ba3-4355-b1c2-ac29265508a0" />
-
 **Tabelas:** `Company`, `Departments`, `Employee`, `Payroll`, `Projects`
 
 Relacionamentos:
@@ -31,12 +29,9 @@ Relacionamentos:
 
 ---
 
-### 📊 Dashboard Final
-> Print do Dashboard conectado com Power Bi
+
 > ### 📊 Dashboard Final - Power BI
 ![Dashboard](relatorio.png)
-
-<img width="906" height="504" alt="relatorio" src="https://github.com/user-attachments/assets/68285dfc-3dd5-41ca-a9ca-28cbc9f1dbf5" />
 
 *Total de 8 funcionários | Soma de Salários: R$ 281k | Distribuição por departamento*
 
