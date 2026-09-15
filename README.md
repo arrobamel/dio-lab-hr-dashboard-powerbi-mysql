@@ -28,7 +28,7 @@ Relacionamentos:
 
 
 > ### 📊 Dashboard Final - Power BI
-![Dashboard](relatorio.png)
+<img width="913" height="508" alt="relatorio" src="https://github.com/user-attachments/assets/ee6e01f3-279e-4da9-aa72-de84f89b8c32" />
 
 *Total de 8 funcionários | Soma de Salários: R$ 281k | Distribuição por departamento*
 
