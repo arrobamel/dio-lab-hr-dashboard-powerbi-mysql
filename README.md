@@ -1,6 +1,7 @@
 # 🏢 Azure Company - HR and Projects Dashboard
 
 > Projeto desenvolvido no Bootcamp da DIO - Processamento de dados com Power BI
+> 
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -13,7 +14,9 @@
 ---
 
 
-### 🗄️ Modelagem do Banco de Dados
+
+### 🗄️ Modelagem do Banco - MySQL Workbench
+![Diagrama](diagrama_azure_company.png)
 > Diagrama relacional criado no MySQL Workbench
 
 <img width="591" height="605" alt="diagrama_azure_company" src="https://github.com/user-attachments/assets/ff944f05-6ba3-4355-b1c2-ac29265508a0" />
@@ -30,6 +33,8 @@ Relacionamentos:
 
 ### 📊 Dashboard Final
 > Print do Dashboard conectado com Power Bi
+> ### 📊 Dashboard Final - Power BI
+![Dashboard](relatorio.png)
 
 <img width="906" height="504" alt="relatorio" src="https://github.com/user-attachments/assets/68285dfc-3dd5-41ca-a9ca-28cbc9f1dbf5" />
 
